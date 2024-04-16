@@ -1,5 +1,4 @@
 
-from AppKit import NSWorkspace
 from pynput import keyboard, mouse
 
 
